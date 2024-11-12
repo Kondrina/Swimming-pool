@@ -34,7 +34,6 @@ public class Main {
 
             } else {
                 System.out.println("Бассейн наполнен полностью");
-                System.out.println("Можно купаться");
                 break;
             }
         }
