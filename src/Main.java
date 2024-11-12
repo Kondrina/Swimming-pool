@@ -37,7 +37,6 @@ public class Main {
                 System.out.println("Можно купаться");
                 break;
             }
-            System.out.println("Введите e-mail: ");
         }
 
     }
