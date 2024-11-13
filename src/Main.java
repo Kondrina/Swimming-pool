@@ -38,6 +38,7 @@ public class Main {
 
                 break;
             }
+            System.out.println("Выберите пункт доставкиЖ ");
         }
 
     }
