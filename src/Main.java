@@ -40,6 +40,7 @@ public class Main {
             }
             System.out.println("Выберите пункт доставкиЖ ");
         }
+        System.out.println("Типо добавили кнопку");
 
     }
 }
