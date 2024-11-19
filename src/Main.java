@@ -24,6 +24,7 @@ public class Main {
             }
         }
         System.out.println("Звонить по номеру: 8-800" );
+        System.out.println("Попросили сделать еще одно изменение");
 
     }
 }
