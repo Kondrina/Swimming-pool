@@ -23,9 +23,14 @@ public class Main {
 
                 break;
             }
+            System.out.println("Выберите пункт доставкиЖ ");
         }
+<<<<<<< HEAD
         System.out.println("Хочу пойти кататься на скейте");
         System.out.println("Добавили еще коммент для объединения веток");
+=======
+        System.out.println("Типо добавили кнопку");
+>>>>>>> 14c7f5e3eb5ef226f275fd8aef5e9a3e24a40975
 
         System.out.println("Написали по проекту Ухожу красиво");
         System.out.println("Будет сбор 27-ого числа");
