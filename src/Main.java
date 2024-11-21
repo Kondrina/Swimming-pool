@@ -26,8 +26,11 @@ public class Main {
         }
         System.out.println("Хочу пойти кататься на скейте");
         System.out.println("Добавили еще коммент для объединения веток");
+<<<<<<< HEAD
 
         System.out.println("Написали по проекту Ухожу красиво");
         System.out.println("Будет сбор 27-ого числа");
+=======
+>>>>>>> parent of 38bb9c3 (commi o sobranii)
     }
 }
